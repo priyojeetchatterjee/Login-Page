@@ -73,6 +73,7 @@ body {
 }
 
 .remember-forgot label input {
+    accent-color: blue;
     margin-right: 3px;
 }
 
